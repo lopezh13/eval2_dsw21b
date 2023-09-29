@@ -82,7 +82,7 @@ class _AddCategoriaState extends State<AddCategoria> {
                     Navigator.pop(context);
                   });
                 } else {
-                  // Puedes agregar manejo de error si los campos están vacíos
+                  
                   showDialog(
                     context: context,
                     builder: (context) {
