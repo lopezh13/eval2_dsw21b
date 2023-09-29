@@ -160,7 +160,7 @@ class _EditCategoriaState extends State<EditCategoria> {
 
                 } else {
 
-                  // Puedes agregar manejo de error si los campos están vacíos
+                  
 
                   showDialog(
 

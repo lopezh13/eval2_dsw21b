@@ -60,7 +60,7 @@ class _HomeState extends State<Home> {
 
       appBar: AppBar(
 
-  title: const Text('EXAMEN II'),
+  title: const Text('EVALUACIÓN PRÁCTICA II'),
 
   actions: <Widget>[
 
