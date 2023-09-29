@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "454474619312",
+    "project_id": "crud-dsw21b",
+    "storage_bucket": "crud-dsw21b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454474619312:android:cb570a9c99e1dc0f729e75",
+        "android_client_info": {
+          "package_name": "com.alexitca.eval2_dsw21b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTNn1FoMLmtbYZM5_B641OBbMRh6UCbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454474619312:android:43afa2548e629f2a729e75",
+        "android_client_info": {
+          "package_name": "com.lopezh.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTNn1FoMLmtbYZM5_B641OBbMRh6UCbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454474619312:android:b5fef5208d43a7df729e75",
+        "android_client_info": {
+          "package_name": "com.mario.tarea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTNn1FoMLmtbYZM5_B641OBbMRh6UCbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454474619312:android:7b5227c358665f97729e75",
+        "android_client_info": {
+          "package_name": "com.marioitca.eval2_sis21b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTNn1FoMLmtbYZM5_B641OBbMRh6UCbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
